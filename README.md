@@ -1,12 +1,12 @@
-# Developed an x86 assembly project handling directed graphs, enabling input of adjacency lists to generate adjacency matrices. Extended functionality to calculate the number of paths of a specific given length between specified nodes, enhancing skills in low-level programming and graph theory.
+## Developed an x86 assembly project handling directed graphs, enabling input of adjacency lists to generate adjacency matrices. Extended functionality to calculate the number of paths of a specific given length between specified nodes, enhancing skills in low-level programming and graph theory.
 
-## Project requirement 1:
+### Project requirement 1:
 - generate adjacency matrices
 
-## Project requirement 2:
+### Project requirement 2:
 - calculate the number of paths of a specific given length between specified nodes
 
-## Input:
+### Input:
 1    // project requirement number
 <br>
 4    // number of nodes
@@ -30,8 +30,7 @@
 3    // node which node 2 is adjencent to
 <br>
 
-## Output:
-<br>
+### Output:
 0 1 1 0
 <br>
 0 0 1 1
@@ -41,8 +40,7 @@
 0 0 0 0
 
 
-## Input:
-<br>
+### Input:
 2    // project requirement number
 <br>
 4    // number of nodes
@@ -72,7 +70,5 @@
 3    // destination node
 <br>
 
-
-## Output:
-<br>
+### Output:
 2  // there are two paths of length 2 from node 0 to node 3 
